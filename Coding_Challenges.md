@@ -51,6 +51,6 @@ To register, go to https://challenge.qhack.ai/register and enter the following:
 
 ![](img/register.png) 
 
-For more details about Coding Challenge problems, submission, and scoring, check out our [how-to guide](https://github.com/XanaduAI/QHack/blob/main/Coding_Challenges/README.md) once the challenges become available.
+For more details about Coding Challenge problems, submission, and scoring, check out our [how-to guide](https://github.com/XanaduAI/QHack/blob/master/Coding_Challenges/README.md) once the challenges become available.
 
 All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions/).
