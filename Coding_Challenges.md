@@ -15,7 +15,7 @@ The QHack Coding Challenge contains 25 individual problems across five categorie
 The questions range in difficulty, but can be tackled in any order. Answering questions correctly gives you points. Harder questions are worth more points. 
 Take on the challenges as an individual or as part of a team (limit of one account per team). ***All team members must be [signed up](https://mailchi.mp/qhack/signups-2022) to QHack 2022***.
 
-The QHack Coding Challenges will be available throughout the entire period of QHack (Feb 14-25), so you can tackle the questions at your own pace.
+The QHack Coding Challenge will be available throughout the entire period of QHack (Feb 14-25), so you can tackle the questions at your own pace.
 
 Feeling competitive? You can win additional prizes and power ups by ranking highly on the [QHack Coding Challenge Scoreboard](https://challenge.qhack.ai/public).
 
@@ -23,7 +23,7 @@ Feeling competitive? You can win additional prizes and power ups by ranking high
 
 ### Power Ups
 
-You can tackle the QHack Coding Challenges at any time during QHack, but for those who want a bit more there are some time-sensitive *Power Ups* you can unlock. 
+You can tackle the QHack Coding Challenge at any time during QHack, but for those who want a bit more there are some time-sensitive *Power Ups* you can unlock. 
 
 <?These credits can be used to build your [QHack Open Hackathon](Open_Hackathon.md) project. Teams can apply credits to any AWS service, including [Amazon Braket](https://aws.amazon.com/braket/), where they can showcase their ideas using Rigetti, IonQ, and D-Wave hardware or with high-performance simulators in the cloud.?>
 
