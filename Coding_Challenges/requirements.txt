@@ -1,0 +1,2 @@
+pennylane==0.20.0
+numpy==1.20.3
