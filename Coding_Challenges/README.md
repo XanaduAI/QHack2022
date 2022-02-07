@@ -1,5 +1,5 @@
 <p align="center" width="400">
-  <img src="img/qhack-banner.png"  />
+  <img src="../img/qhack-banner.png"  />
 </p>
 
 # QHack Coding Challenge
