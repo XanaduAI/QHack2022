@@ -31,10 +31,10 @@ You can tackle the QHack Coding Challenge at any time during QHack, but for thos
 
 ### Timeline
 
-| Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-|   | **Feb 14**: Coding Challenge opens |  |  |  |  |   |
-|   | **Feb 21**: Open Hackathon begins |   |   |   | **Feb 25**: Coding Challenge portal closes |  |
+|   | **Feb 7**: [Coding Challenge Portal](https://challenge.qhack.ai) opens for team registration |  |  |  |  |  |
+|   | **Feb 14**: Coding Challenge Questions available |  |  |  |  | **Feb 18**:<ul><li>**AWS Power Up**: Win $400 USD in AWS credits (top 100 teams as of 17h00 ET)</li><li>**IBM Power Up**: Win access to IBM Quantum's 7-qubit machine (top 70 teams as of 17h00 ET)</li></ul> |
 
 ---
 
