@@ -261,7 +261,6 @@ To be eligible for the QSYS program, participants must be enrolled in a secondar
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-|   | **Feb 14**: <ul><li>Coding Challenge Questions available</li><li>QHack Livestream Day 1</li></ul> | **Feb 15**: QHack Livestream Day 2 | **Feb 16**: QHack Livestream Day 3 | **Feb 17**: QHack Livestream Day 4 | **Feb 18**:<ul><li>**AWS Power Up**: Win $400 USD in AWS credits (top 100 teams as of 17h00 ET)</li><li>**IBM Power Up**: Win access to IBM Quantum's 7-qubit machine (top 70 teams as of 17h00 ET)</li><li>QHack Livestream Day 5 (Spanish-language session)</li></ul> |  | 
 |   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): <ul><li>Open Hackathon concludes</li><li>Coding Challenge portal closes</li></ul> |  |
 
 ---
