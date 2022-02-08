@@ -10,6 +10,14 @@ See below for challenge topics and additional eligibility criteria. Complete det
 
 ---
 
+### Timeline
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|---|---|---|---|---|---|---|
+|   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): Coding Challenge portal closes |  |
+
+---
+
 #### Amazon Braket Challenge
 
 Sponsored by [Amazon Braket](https://aws.amazon.com/braket/)
@@ -254,14 +262,6 @@ Best Open Hackathon project by an undergraduate or pre-undergraduate scientist
 **Info**: 
 
 To be eligible for the QSYS program, participants must be enrolled in a secondary school and be at least 15 years old or older. Please see the [QSYS website](https://uwaterloo.ca/institute-for-quantum-computing/qsys#Who-can-apply) for further eligibility considerations. 
-
----
-
-### Timeline
-
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|---|---|---|---|---|---|---|
-|   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): <ul><li>Open Hackathon concludes</li><li>Coding Challenge portal closes</li></ul> |  |
 
 ---
 
