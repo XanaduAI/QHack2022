@@ -8,6 +8,8 @@ This year's Open Hackathon features a number of sponsored challenges, each with 
 
 See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2022 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
+---
+
 ### Power Ups
 
 **Free AWS Credits** 
