@@ -10,7 +10,7 @@ QHack has three main pillars:
 
 - **[QHack Open Hackathon](Open_Hackathon.md)**: Showcase your creativity, problem-solving capabilities, and technical chops in this free-form hackathon. Share your own idea with the world, or start with one of project seeds. Multiple exclusive prizes are up for grabs. Runs Feb 21-25, 2022.
 
-## Power Ups and Prizes
+## What can I win?
 
 This year there are more [prizes and power ups](https://qhack.ai/prizes) available than ever before, courtesy of our incredible sponsors. 
 
@@ -26,6 +26,14 @@ There are also more ways you can win.
 - **[Meme Contest](https://qhack.ai/events#meme-contest)**: The OG quantum computing meme contest returns returns! Take home some sweet swag by creating the spiciest quantum memes.
 - **[Open Hackathon Challenges](Open_Hackathon.md)**: Submit your team's Open Hackathon project to one (or more) of our sponsor's challenges. The best entries for each challenge win amazing and unique prizes.
 - **[Coding Challenges](Coding_Challenges.md)**: Unlock power ups to put toward your Open Hackathon project (and beyond!) by placing high on the QHack Coding Challenges.
+
+### Power Ups
+
+**Free AWS Credits** 
+
+Thanks to Amazon Braket you can power up your projects during the QHack Open Hackathon.
+- **$400 in AWS Credits are available for up to 100 teams**: To unlock this Power Up, your team must place in the top 100 of the QHack Coding Challenges.
+- **$2000 in AWS Credits are available for up to 15 teams**: To unlock this Power Up, your team must submit a draft of your QHack Open Hackathon project by 12h00 ET on Wed, Feb 23. Fifteen winners will be selected from the received submissions.
 
 ## Timeline
 
