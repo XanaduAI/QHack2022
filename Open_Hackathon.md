@@ -34,6 +34,10 @@ Sponsored by [Amazon Braket](https://aws.amazon.com/braket/)
 - $10k in Braket Credits
 - 1 [AWS DeepRacer](https://aws.amazon.com/deepracer/)
 
+**Info**:
+
+Join the Amazon Braket office hours daily from 1 to 2pm PST. Whether you have a question about AWS and Amazon Braket, want to discuss your approach to the Hackathon Challenge, or just want to drop by to say hello and meet the team — we have you covered. The details are posted in the `#amazon-braket-support` channel on the [Xanadu Slack](u.strawberryfields.ai/slack).
+
 ---
 
 #### IBM Qiskit Challenge
