@@ -8,6 +8,20 @@ This year's Open Hackathon features a number of sponsored challenges, each with 
 
 See below for challenge topics and additional eligibility criteria. Complete details for prize eligibility is available in the [2022 QHack Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
+### Power Ups
+
+**Free AWS Credits** 
+
+Thanks to Amazon Braket you can power up your projects during the QHack Open Hackathon:
+- **$400 in AWS Credits are available for up to 100 teams**: To unlock this Power Up, your team must place in the top 100 of the QHack Coding Challenges at 17h00 ET on Fri, Feb 18.
+- **$2000 in AWS Credits are available for up to 15 teams**: To unlock this Power Up, your team must submit a draft of your QHack Open Hackathon project by 12h00 ET on Wed, Feb 23. Fifteen winners will be selected from the received submissions.
+
+**Exclusive access to IBM Quantum machines**
+
+ Thanks to IBM Quantum you can power up your projects during the QHack Open Hackathon:
+ - **Access to 7-Qubit IBM Quantum machine**: To unlock this Power Up, your team must place in the top 70 of the QHack Coding Challenges at 17h00 ET on Fri, Feb 18.
+ - **Access to 16-qubit IBM Quantum machine**: To unlock this Power Up, your team must submit a draft of your QHack Open Hackathon project by 11h59 ET on Tues, Feb 22. Ten winners will be selected from the received submissions.
+
 ---
 
 ### Timeline
