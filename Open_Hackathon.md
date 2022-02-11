@@ -311,7 +311,7 @@ You could brainstorm a new idea with your team, or start from one of the followi
 4. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
 5. Submit a Pull Request to an open-source library with a new feature
 
-All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions.html).
+All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms-and-conditions/).
 
 ---
 
