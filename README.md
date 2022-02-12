@@ -6,7 +6,7 @@ QHack has three main pillars:
 
 - **[QHack Live Streams](https://twitch.tv/qhack)**: Streaming live at [twitch.tv/qhack](https://twitch.tv/qhack). Join us for exciting talks from our awesome lineup of top speakers. Tune in live to interact with the speakers and win raffle prizes. Runs Feb 14-18, 2022.
 
-- **[QHack Coding Challenges](Coding_Challenges.md)**: Test out your quantum coding skills with 25 unique questions for all skill levels. Earn prizes by ranking on the leaderboard. Runs Feb 14-25, 2022.
+- **[QHack Coding Challenges](Coding_Challenges.md)**: Test out your quantum coding skills with 25 unique questions for all skill levels. Earn prizes and Power Ups by ranking on the leaderboard. Runs Feb 14-25, 2022.
 
 - **[QHack Open Hackathon](Open_Hackathon.md)**: Showcase your creativity, problem-solving capabilities, and technical chops in this free-form hackathon. Share your own idea with the world, or start with one of project seeds. Multiple exclusive prizes are up for grabs. Runs Feb 21-25, 2022.
 
