@@ -114,7 +114,7 @@ Sponsored by [Google Quantum AI](https://quantumai.google)
 
 **Awarded for**: 
 
-*Best Open Hackathon project which implementats/extends a concept in a Google Quantum AI research paper*
+*Best Open Hackathon project which implements/extends a concept in a Google Quantum AI research paper*
 
 **Prize**: 
 
