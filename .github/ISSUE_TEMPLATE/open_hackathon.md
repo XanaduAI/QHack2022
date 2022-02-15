@@ -2,7 +2,7 @@
 name: Open Hackathon Final Submission
 about: A template to be used for submitting your final QHack Open Hackathon project
 title: "[ENTRY] Your Project Title"
-labels: submission
+labels: ''
 assignees: ''
 
 ---
