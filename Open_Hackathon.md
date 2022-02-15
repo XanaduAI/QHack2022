@@ -53,7 +53,7 @@ Sponsored by [Amazon Braket](https://aws.amazon.com/braket/)
 
 **Info**:
 
-Join the Amazon Braket office hours daily from 1 to 2pm PST. Whether you have a question about AWS and Amazon Braket, want to discuss your approach to the Hackathon Challenge, or just want to drop by to say hello and meet the team — we have you covered. The details are posted in the `#amazon-braket-support` channel on the [Xanadu Slack](u.strawberryfields.ai/slack).
+Join the Amazon Braket office hours daily from 1 to 2pm PST. Whether you have a question about AWS and Amazon Braket, want to discuss your approach to the Hackathon Challenge, or just want to drop by to say hello and meet the team — we have you covered. The details are posted in the `#amazon-braket-support` channel on the [Xanadu Slack](https://u.strawberryfields.ai/slack).
 
 ---
 
