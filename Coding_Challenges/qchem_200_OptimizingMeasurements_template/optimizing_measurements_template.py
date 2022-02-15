@@ -27,7 +27,7 @@ def join_operators(op1, op2):
 
     Args:
         - op1 (list(str)): First Pauli word (list of Pauli operators), e.g., ["Y", "I", "Z", "I"].
-        - op2 (list(str)): Second Pauli word (list of Pauli operators), e.g., ["Y", "I", "X", "I"].
+        - op2 (list(str)): Second Pauli word (list of Pauli operators), e.g., ["Y", "X", "I", "I"].
 
     Returns:
         - (list(str)): Pauli operator corresponding to the union of op1 and op2.
