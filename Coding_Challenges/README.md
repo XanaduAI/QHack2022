@@ -32,7 +32,7 @@ In addition to your score in points, the cumulative time of submission since the
 
 In the event of a tie between teams on points, the lowest cumulative submission time for successful submissions will break the tie. Your cumulative submission time in minutes is displayed next to your score on the Scoreboard: 
   
-![](img/points.png)
+![](../img/points.png)
 
 ## Solution Assessment<a name="assess" />
 The scoring system works on an input/output basis. A set of inputs are fed into your submitted Python script via `stdin` and the generated outputs are compared against the expected results. For all outputs except floating-point numbers, an exact match is required (unless otherwise specified in the problem file). 
@@ -125,7 +125,7 @@ To register, go to https://challenge.qhack.ai/register and enter the following:
 4. `Password` - The password for accessing your account.  
 5. `Repeat Password` - Re-enter your password.    
 
-![](img/register.png)  
+![](../img/register.png)  
 
 Don't forget to read the [Terms & Conditions](https://qhack.ai/terms-and-conditions/) before registering. By registering, you agree to abide by the terms and conditions outlined therein. 
 
@@ -139,22 +139,22 @@ To submit your solution:
 1. Login to your Team's account at https://challenge.qhack.ai/login with the Username and Password you (or your Team Captain) used to register your Team.
 2. Click the green "Submit" button in the top right corner:  
 
-![](img/submit.png)
+![](../img/submit.png)
 
 3. In the Submit pop-up window:    
   a. Click "Browse", which will open a file navigator. Navigate to the location of your Python script solution, select it, and click "Open".  
   b. Click the dropdown list under "Problem" to choose which problem you're submitting a solution for.   
   c. Click Submit. A popup will confirm your submission.  
   
-![](img/submit_dialog.png)
+![](../img/submit_dialog.png)
 
 Depending on the problem it can take anywhere from a few seconds to a few minutes to be assessed. In the meantime you should see a new entry under the Submissions section of the Team homepage (lower-left corner) with a `pending` result:  
 
-![](img/pending_submission.png)
+![](../img/pending_submission.png)
 
 Once the submission has been assessed, the result will be updated. You may need to refresh the page to see the new status:  
 
-![](img/submission_result.png)
+![](../img/submission_result.png)
 
 # Submission Outcomes<a name="outcomes" />
 There are several possible outcomes following a submission:
@@ -174,11 +174,11 @@ The Coding Challenges have closed (at the end of QHack) or have been temporarily
 ## Clarifications<a name="clarifications" />
 If you have a question about one of the problems that is not answered in the PDF description document for that problem, or suspect there is an error in one of the problems, or you would like to dispute an assessment, you can request a clarification by clicking the "request clarification" button on your Team's home screen:  
 
-![](img/clarifications.png) 
+![](../img/clarifications.png) 
 
 This will open a window where you can compose a message for the organizers:  
 
-![](img/clar_req.png) 
+![](../img/clar_req.png) 
 
 Under "Subject" you can choose a specific problem if this is a clarification for a particular problem, or specify that this is a general or technical question. 
 
@@ -186,9 +186,9 @@ To help us help you, please provide as much detail as possible. Please be aware 
 
 Once submitted, a record of your clarification request will appear under the Clarification Requests section, and responses will appear under the Clarifications section directly above that. Clicking on either entry will give you the full text and details of the message:  
 
-![](img/clarifications_send_respond.png)   
+![](../img/clarifications_send_respond.png)   
 
-![](img/full_clar_req.png)
+![](../img/full_clar_req.png)
 
 ## Lost Password<a name="lostpwd" />
 Unfortunately there is no mechanism for you to change or reset your password yourself, so please have your web browser remember your Team's login details, or record them some other way. If you have lost the password for your Team's account and need it reset you will need to contact `admin@qhack.ai` using the same email address you registered with the judging system.
