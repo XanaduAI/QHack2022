@@ -192,6 +192,8 @@ Quantum algorithms for chemistry applications are expanding. We can now calculat
 
 Coding tool: QunaSys will open their software product Qamuy—Gaussian-like quantum chemistry software—for all participants. You can use it to build chemistry applications easily! Of course, you are welcome to build using Pennylane, Qiskit, Cirq, etc.
 
+For detail please check Youtube video [Introduction to the Quantum Chemistry Challenge hosted by QunaSys](https://www.youtube.com/watch?v=92JQaSEFkxg)
+
 ---
 
 #### Quantum Entrepreneur Challenge
