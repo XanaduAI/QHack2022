@@ -102,9 +102,13 @@ Sponsored by [Menten AI](https://www.menten.ai/)
 
 *Best Open Hackathon project applying quantum machine learning to a biotechnology use-case*
 
-**Prize**: 
+**Prize**:
 
-*Virtual paid internship in quantum machine learning* (One internship available)
+One winner will receive a 12-week paid ($14K USD) remote internship at Menten AI as well as an awesome swag package.
+
+**Info**:
+
+For any questions, please reach out directly to alexey.galda@menten.ai
 
 ---
 
