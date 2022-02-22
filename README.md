@@ -39,7 +39,7 @@ Thanks to Amazon Braket you can power up your projects during the QHack Open Hac
 
  Thanks to IBM Quantum you can power up your projects during the QHack Open Hackathon:
  - **Access to 7-Qubit IBM Quantum machine**: To unlock this Power Up, your team must place in the top 70 of the QHack Coding Challenges at 17h00 ET on Fri, Feb 18.
- - **Access to 16-qubit IBM Quantum machine**: To unlock this Power Up, your team must [submit a draft of your QHack Open Hackathon project](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=IBM+Power+UP&template=open-hackathon-ibm-power-up-entry.md&title=%5BIBM+Power+Up%5D+Your+Project+Title) by 11h59 ET on Tues, Feb 22. Ten winners will be selected from the received submissions.
+ - **Access to 16-qubit IBM Quantum machine**: To unlock this Power Up, your team must [submit a draft of your QHack Open Hackathon project](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=IBM+Power+UP&template=open-hackathon-ibm-power-up-entry.md&title=%5BIBM+Power+Up%5D+Your+Project+Title) by 23h59 ET on Tues, Feb 22. Ten winners will be selected from the received submissions.
  
 ## Timeline
 
