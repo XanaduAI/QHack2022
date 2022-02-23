@@ -294,7 +294,7 @@ To be eligible for the QSYS program, participants must be enrolled in a secondar
 
 ### How do I take part?
 
-To submit your team's entry for any of these prizes, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
+To submit your team's entry for any of these prizes, simply open an Issue on *[this template](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=&template=open_hackathon.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
 
 1. The name of your team (if you took part in the [QHack Coding Challenge](Coding_Challenges.md), this name should match the name used there).
