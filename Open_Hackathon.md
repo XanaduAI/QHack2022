@@ -30,7 +30,7 @@ Thanks to Amazon Braket you can power up your projects during the QHack Open Hac
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-|   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): Coding Challenge portal closes |  |
+|   | **Feb 21**: Open Hackathon begins | **Feb 22**: Submit draft Open Hackathon project if you want to be considered for access to IBM Quantum's 16-qubit machine (10 teams; must submit before 23h59 ET) | **Feb 23**: Submit draft Open Hackathon project if you want to be considered for $2000 USD in AWS credits (15 teams; must submit before 12h00 ET) |   | **Feb 25** (17h00 ET): Open Hackathon project submissions are due |  |
 
 ---
 ### Challenges
